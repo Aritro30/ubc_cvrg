@@ -108,4 +108,12 @@
   number_educ: 2
   education1: Machine Learning
   education2: Computer Vision
-  
+
+- name: Aritro Roy Arko
+  photo: arko.jpg
+  info: Masters Student
+  email: arko30@cs.ubc.ca
+  webpage: https://www.linkedin.com/in/aritro-roy-arko-6b2165141/
+  number_educ: 2
+  education1: Computer Vision
+  education2: Human Pose Estimation
